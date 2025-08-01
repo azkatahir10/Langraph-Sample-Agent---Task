@@ -20,7 +20,7 @@ A simple decision-making agent built with LangGraph that evaluates numerical inp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/langgraph-decision-agent.git
+   git clone https://github.com/azkatahir10/langgraph-decision-agent.git
    cd langgraph-decision-agent
    ```
 
