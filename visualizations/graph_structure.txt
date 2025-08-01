@@ -1,0 +1,12 @@
+Graph Structure:
++-------------+
+|  evaluator  |
++------+------+
+       |
+       +-----> high_handler -> END
+       |
+       +-----> low_handler -> END
+
+Actual outputs:
+High value result: {'input_value': 75, 'evaluation_result': 'high', 'final_message': 'The value 75 is high!'}
+Low value result: {'input_value': 25, 'evaluation_result': 'low', 'final_message': 'The value 25 is low.'}
